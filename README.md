@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Prafull Wahatule  
 
 ### 🚀 A Passionate Data Analyst from India 🇮🇳  
-
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
 ---
 
 🌱 I’m currently learning **Advanced Data Analytics & Business Intelligence**
