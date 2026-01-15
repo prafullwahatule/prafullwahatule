@@ -22,13 +22,27 @@
 
 ## 👨‍💻 Projects  
 
-🔗 **GitHub Projects:**  
+🔗 **All Projects on GitHub:**  
 👉 https://github.com/prafullwahatule  
 
-Includes:
-- Power BI Dashboards  
-- SQL Case Studies  
-- Python Data Analysis Projects  
+### 📊 Power BI Projects
+- Interactive dashboards with **DAX measures, KPIs, slicers, and drill-through**
+- Business reports for **sales analysis, performance tracking, and trend analysis**
+
+### 📈 Excel Reporting & Dashboards
+- Automated Excel dashboards using **Pivot Tables, Charts, XLOOKUP/VLOOKUP**
+- Data cleaning and transformation using **Power Query**
+- MIS and performance reporting
+
+### 🗄️ SQL Projects
+- Analytical queries using **Joins, Subqueries, Window Functions**
+- Business problem-solving with structured datasets
+- Revenue, trend, and performance analysis using SQL
+
+### 🐍 Python Data Analysis Projects
+- Data cleaning and preprocessing using **Pandas & NumPy**
+- **Exploratory Data Analysis (EDA)** with Matplotlib & Seaborn
+- Trend detection and insight generation from raw datasets  
 
 ---
 
