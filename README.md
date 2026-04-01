@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Prafull Wahatule  
+<h1 align="center"># Hi there 👋, I'm Prafull Wahatule  </h1>
 
 ### 📊 Data Analyst | Power BI | SQL | Excel | Python  
 📍 Pune, Maharashtra, India 🇮🇳  
