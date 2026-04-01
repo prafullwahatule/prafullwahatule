@@ -1,9 +1,9 @@
-<h1 align="center"> # Hi there 👋, I'm Prafull Wahatule  </h1>
+<h1 align="center"> Hi there 👋, I'm Prafull Wahatule  </h1>
 
-<h4 align="center"> ### 📊 Data Analyst | Power BI | SQL | Excel | Python  </h4>
-<h6 align="center">📍 Pune, Maharashtra, India 🇮🇳  </h6>
+<h4 align="center"> 📊 Data Analyst | Power BI | SQL | Excel | Python  </h4>
+<h5 align="center">📍 Pune, Maharashtra, India 🇮🇳  </h5>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)
+<h4 align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)</h5>
 
 ---
 
