@@ -1,45 +1,53 @@
-<h1 align="center"> Hi there 👋, I'm Prafull Wahatule  </h1>
+<h1 align="center">Hi there 👋, I'm Prafull Wahatule</h1>
 
-<h4 align="center"> 📊 Data Analyst | Power BI | SQL | Excel | Python  </h4>
-<h5 align="center">📍 Pune, Maharashtra, India 🇮🇳  </h5>
+<h3 align="center">📊 Data Analyst | Power BI | SQL | Excel | Python</h3>
+<h4 align="center">📍 Pune, Maharashtra, India 🇮🇳</h4>
+<h5 align="center">Turning raw data into meaningful business insights</h5>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square" />
+</p>
 
 ---
 
-## 🧠 Skills  
+## 👋 About Me
 
-- Power BI & DAX  
-- SQL (MySQL)  
-- Microsoft Excel  
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Data Cleaning & Validation  
-- Dashboard Design & KPI Analysis  
+Hi, I’m **Prafull Wahatule**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
+
+I have hands-on experience in **SQL, Power BI, Excel, and Python**, with a strong focus on **data cleaning, ETL, dashboard development, KPI analysis, and trend identification**.
+
+During my internship and projects, I worked on building interactive dashboards, validating multi-source data, and delivering insights that support business decision-making.
+
+I enjoy solving real-world business problems through **data storytelling, visualization, and analytical thinking**.
+
+My key interests include:
+- 📊 Power BI Dashboard Development
+- 🗄 SQL Analytics
+- 📈 Customer Churn Analysis
+- 💰 Sales Reporting
+- ⚙ ETL & Data Transformation
+- 📉 Business Trend Analysis
+
+I am continuously improving my skills in **advanced DAX, data modeling, and Python-based analytics** while building industry-level projects.
+
+---
+
+## 🧠 Core Skills
+
+- Power BI & DAX
+- SQL (MySQL)
+- Microsoft Excel
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data Cleaning & Validation
+- Dashboard Design & KPI Analysis
 - Exploratory Data Analysis (EDA)
-- Data extraction, transformation, and loading (ETL)
+- ETL (Extract, Transform, Load)
 - Data Warehousing
-- Business & Trend Analysis  
-
----
-## 📈 GitHub Stats
-
- <table>
-  <tr>
-    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prafullwahatule&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
-  </tr>
- </table>
- 
----
-
-## 👨‍💻 Projects  
-
-🔗 **GitHub Projects:**  
-👉 https://github.com/prafullwahatule  
+- Business & Trend Analysis
 
 ---
 
-## 🔧 Languages & Tools  
+## 🔧 Languages & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -56,7 +64,47 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 👨‍💻 Featured Projects
+
+### 📊 Customer Churn Analysis Dashboard
+- Analyzed **4.4L+ customer records**
+- Identified churn patterns & retention drivers
+- Built executive dashboard in **Power BI**
+- Used **SQL, Python, DAX**
+
+### 📈 Sales Performance Dashboard
+- Designed end-to-end sales analytics solution
+- Built **star schema data model**
+- Delivered executive KPI dashboards
+- Regional & product performance insights
+
+### 🛒 Amazon Sales Analysis Report
+- Performed data cleaning & transformation
+- Created category performance insights
+- Revenue & customer trend analysis
+- Shipping & B2B/B2C reporting
+
+🔗 **Explore More Projects:**  
+👉 https://github.com/prafullwahatule
+
+---
+
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prafullwahatule&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prafullwahatule.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prafullwahatule/)
@@ -65,6 +113,10 @@
 
 ---
 
-💼 Open to Data Analyst, Business Analyst, and Power BI Developer opportunities.
+## 💼 Open to Opportunities
 
-📩 Feel free to connect with me on LinkedIn.
+💼 Open to **Data Analyst, ETL Developer, Business Analyst, and Power BI Developer** opportunities.
+
+📩 Feel free to connect with me on **LinkedIn or Email**.
+
+⭐ If you find my projects useful, consider starring the repository.
