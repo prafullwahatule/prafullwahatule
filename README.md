@@ -21,22 +21,12 @@
 - Business & Trend Analysis  
 
 ---
-<h3 align="left">Status:</h3>
-<table>
-  <tr>
-    <td><img  width="100%" 
-             src="https://github-readme-stats-sigma-five.vercel.app/api?username=prafullwahatule&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
-<td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prafullwahatule&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
+## 📈 GitHub Stats
 
-  </tr>
- </table>
-
-  <table>
-  <tr>
-    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prafullwahatule&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
-  </tr>
- </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prafullwahatule&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark" />
+</p>
 
 ---
 
@@ -73,4 +63,6 @@
 
 ---
 
-⭐ *If you find my projects useful, consider starring the repository.*
+💼 Open to Data Analyst, Business Analyst, and Power BI Developer opportunities.
+
+📩 Feel free to connect with me on LinkedIn.
