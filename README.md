@@ -3,7 +3,7 @@
 <h4 align="center"> 📊 Data Analyst | Power BI | SQL | Excel | Python  </h4>
 <h5 align="center">📍 Pune, Maharashtra, India 🇮🇳  </h5>
 
-<h4 align="center"> ![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)</h5>
+![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)
 
 ---
 
