@@ -1,7 +1,7 @@
-<h1 align="center"># Hi there 👋, I'm Prafull Wahatule  </h1>
+<h1 align="center"> # Hi there 👋, I'm Prafull Wahatule  </h1>
 
-### 📊 Data Analyst | Power BI | SQL | Excel | Python  
-📍 Pune, Maharashtra, India 🇮🇳  
+<h1 align="center"> ### 📊 Data Analyst | Power BI | SQL | Excel | Python  </h1>
+<h1 align="center">📍 Pune, Maharashtra, India 🇮🇳  </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prafullwahatule&style=flat-square)
 
@@ -19,6 +19,17 @@
 - Data extraction, transformation, and loading (ETL)
 - Data Warehousing
 - Business & Trend Analysis  
+
+---
+<h3 align="left">Status:</h3>
+<table>
+  <tr>
+    <td><img  width="100%" 
+             src="https://github-readme-stats-sigma-five.vercel.app/api?username=prafullwahatule&show_icons=true&locale=en&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
+<td><img   width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=prafullwahatule&show_icons=true&locale=en&layout=compact&theme=github_dark&show_icons=true" alt="Prafull Wahatule" /></td>
+
+  </tr>
+ </table>
 
 ---
 
