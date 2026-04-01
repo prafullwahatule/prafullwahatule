@@ -24,18 +24,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prafullwahatule&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prafullwahatule&theme=github_dark&show_icons=true" /></td>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafullwahatule&theme=github_dark&show_icons=true" alt="Prafull Wahatule" />
 </p>
 
- <table>
-  <tr>
-    <td><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prasad-govekar&theme=github_dark&show_icons=true" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-govekar&theme=github_dark&show_icons=true" alt="Prasad govekar" /></td>
-  </tr>
- </table>
 ---
 
 ## 👨‍💻 Projects  
